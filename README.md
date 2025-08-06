@@ -1,4 +1,7 @@
-Udemy Website Clone
+**Udemy Website Clone**
+
+
+
 This project is a frontend clone of the Udemy website built using HTML and CSS.
 It focuses on creating a responsive, and user-friendly interface similar to the real Udemy platform.
 
